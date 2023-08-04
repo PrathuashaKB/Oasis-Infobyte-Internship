@@ -19,6 +19,21 @@ Iris dataset from **Kaggle** : [DATASET](https://www.kaggle.com/datasets/saurabh
 #### UI for Iris flower classification: 
 <img src="https://github.com/PrathuashaKB/Oasis-Infobyte-Internship/blob/main/OIBSIP_TASK%201/WEB-APP.png" width="100%"> 
 
+## TASK 2
+### CAR PRICE PREDICTION
+Car price prediction is one of the major research areas in machine learning. The price of a car depends on a lot of factors like the goodwill of the brand of the car, features of the car, horsepower and the mileage it gives and many more. By considering these features we can train a model that can learn from the given data and makes predictions accordingly with Machine Learning.
+#### Dataset :
+Car dataset from **Kaggle** : [DATASET]([https://www.kaggle.com/datasets/saurabh00007/iriscsv](https://www.kaggle.com/code/goyalshalini93/car-price-prediction-linear-regression-rfe))
+#### Project Steps :
+1. Data Preprocessing : Load the Iris dataset and inspect its structure.
+2. Data Analysis : Explore the dataset by visualizing the relationships between different features.
+3. Data Splitting : Split the dataset into training and testing sets.
+4. Model Training : Select multiple machine learning algorithms suitable for classification tasks, train each model using the training data.
+5. Model Evaluation : Evaluate the trained models using the testing data.
+6. Model Deployment : Using the Streamlit library to create a web-based GUI for the Iris flower classification model.
+#### UI for Car price prediction: 
+<img src="https://github.com/PrathuashaKB/Oasis-Infobyte-Internship/blob/main/OIBSIP_TASK%202/WEB-APP.png" width="100%">
+
 
 
 
