@@ -23,7 +23,7 @@ Iris dataset from **Kaggle** : [DATASET](https://www.kaggle.com/datasets/saurabh
 ### CAR PRICE PREDICTION
 Car price prediction is one of the major research areas in machine learning. The price of a car depends on a lot of factors like the goodwill of the brand of the car, features of the car, horsepower and the mileage it gives and many more. By considering these features we can train a model that can learn from the given data and makes predictions accordingly with Machine Learning.
 #### Dataset :
-Car dataset from **Kaggle** : [DATASET]([https://www.kaggle.com/datasets/saurabh00007/iriscsv](https://www.kaggle.com/code/goyalshalini93/car-price-prediction-linear-regression-rfe))
+Car dataset from **Kaggle** : [DATASET](https://www.kaggle.com/code/goyalshalini93/car-price-prediction-linear-regression-rfe)
 #### Project Steps :
 1. Data Preprocessing : Load the Iris dataset and inspect its structure.
 2. Data Analysis : Explore the dataset by visualizing the relationships between different features.
