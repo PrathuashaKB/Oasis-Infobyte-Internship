@@ -67,7 +67,7 @@ Unemployment dataset from **Kaggle** : [DATASET](https://www.kaggle.com/datasets
 #### Repository : [OIBSIP_TASK3](https://github.com/PrathuashaKB/Oasis-Infobyte-Internship/tree/main/OIBSIP_TASK%203)
 
 
-#### "I express my gratitude to Oasis Infobyte for the opportunity to exhibit my abilities & skills as a data science intern." 
+#### I express my gratitude to Oasis Infobyte for the opportunity to exhibit my abilities & skills as a data science intern.
 <img src="https://github.com/PrathuashaKB/Oasis-Infobyte-Internship/blob/main/Oasis%20Infobyte%20Certificate.jpg" width="50%"> 
 
 #### Prathuasha K B
